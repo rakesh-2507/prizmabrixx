@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" width="34" height="34">
+	<title>Clip-Path</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h34v34h-34z"/>
+		</clipPath>
+		<image width="34" height="34" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzQiIGhlaWdodD0iMzQiIHZpZXdCb3g9IjAgMCAzNCAzNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMC43NSIgeT0iMC43NSIgd2lkdGg9IjMyLjUiIGhlaWdodD0iMzIuNSIgcng9IjEuMjUiIHN0cm9rZT0iIzdDN0M3QyIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KPGxpbmUgeTE9IjguODA3ODYiIHgyPSIzMy4xMDQiIHkyPSI4LjgwNzg2IiBzdHJva2U9IiM3QzdDN0MiIHN0cm9rZS13aWR0aD0iMS41Ii8+CjxsaW5lIHkxPSIxNi45NzE5IiB4Mj0iMzMuMTA0IiB5Mj0iMTYuOTcxOSIgc3Ryb2tlPSIjN0M3QzdDIiBzdHJva2Utd2lkdGg9IjEuNSIvPgo8bGluZSB5MT0iMjQuNzg3NCIgeDI9IjMzLjEwNCIgeTI9IjI0Ljc4NzQiIHN0cm9rZT0iIzdDN0M3QyIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KPC9zdmc+Cg=="/>
+	</defs>
+	<style>
+	</style>
+	<filter id="f0">
+		<feFlood flood-color="#ffffff" flood-opacity="1" />
+		<feBlend mode="normal" in2="SourceGraphic"/>
+		<feComposite in2="SourceAlpha" operator="in" />
+	</filter>
+	<g id="Clip-Path" clip-path="url(#cp1)" filter="url(#f0)">
+		<use id="floors" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" width="34" height="34">
+	<title>Clip-Path</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h34v34h-34z"/>
+		</clipPath>
+		<image  width="34" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAMAAAANmfvwAAAAAXNSR0IB2cksfwAAAIRQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////YVm6gAAAACx0Uk5TABCP789gkPCw/0DQX5/1MKVwUKa/ID/ff6+AwE/goG/54cdXH4IPueTWL5FQ4GVhAAABhklEQVR4nH2U62KDIAyFCagYrGM6EBRru/vt/d9veGtVdOeX4EcST4KEbAWURXGwu1LCkxTFvwhPgGTJ8Xs45djrgcoDImYYPRaiTJ4Yqr1kEGGuCREV+EVp0AaENEyQsvZpimHdYB7EiLRWmBVCz2m3jGNSMl6uSsPVUmALJoP1sZotN86KdFyvCaKxWdSKrcbQ99zcnxvmnQ8I0uI9sFPEdSECi8iOEggJQm7FwOX6rHZ1fRFzscc6E45K0YuUPNpJFGNfH6rEGcTolUd2KzoQZOgnlNhIF2qcrLHlb4iKtltz56+yo0Xv6RnR1JfqCLG9s7pMHA7hYAdR6bwWhQ/HbIB8TIM2STejqVDJG9LiOPBFNaXoGLQ08llNOSH0PJrM+4ptVbWfva1dLErnB29AzNxkGQ8V49d3PDoQMzYgP/i7/AY5DzicDDofJa8q6s/Vp22PwDJM+z7zPm6qi2xDSX9zuzGaFl79qyUFJ4W82ZsxHftaa2v9jXTHvxhdOI6uWDb0D2mVHHtZhHjuAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<filter id="f0">
+		<feFlood flood-color="#ffffff" flood-opacity="1" />
+		<feBlend mode="normal" in2="SourceGraphic"/>
+		<feComposite in2="SourceAlpha" operator="in" />
+	</filter>
+	<g id="Clip-Path" clip-path="url(#cp1)" filter="url(#f0)">
+		<use id="room-service" href="#img1" x="0" y="0"/>
+	</g>
+</svg>

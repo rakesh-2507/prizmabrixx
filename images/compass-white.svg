@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>Clip-Path</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1-1h34v34h-34z"/>
+		</clipPath>
+		<image width="34" height="34" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzQiIGhlaWdodD0iMzQiIHZpZXdCb3g9IjAgMCAzNCAzNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzEzNF8xMTc5KSI+CjxtYXNrIGlkPSJtYXNrMF8xMzRfMTE3OSIgc3R5bGU9Im1hc2stdHlwZTpsdW1pbmFuY2UiIG1hc2tVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjAiIHdpZHRoPSIzNCIgaGVpZ2h0PSIzNCI+CjxwYXRoIGQ9Ik0wIDMuODE0N2UtMDZIMzRWMzRIMFYzLjgxNDdlLTA2WiIgZmlsbD0id2hpdGUiLz4KPC9tYXNrPgo8ZyBtYXNrPSJ1cmwoI21hc2swXzEzNF8xMTc5KSI+CjxwYXRoIGQ9Ik0yMC44MDkyIDIwLjgxMDFMMzEuMTI3NyAxNy4wMDAxTDIwLjgwOTIgMTMuMTkwMUwxNi45OTkyIDIuODcxNjFMMTMuMTg5MSAxMy4xOTAxTDIuODcwNjEgMTcuMDAwMUwxMy4xODkxIDIwLjgxMDFMMTYuOTk5MiAzMS4xMjg3TDIwLjgwOTIgMjAuODEwMVoiIHN0cm9rZT0iIzdDN0M3QyIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPgo8cGF0aCBkPSJNMTguODE3NiAxNy4wMDAyQzE4LjgxNzYgMTguMDA0MyAxOC4wMDM2IDE4LjgxODQgMTYuOTk5NCAxOC44MTg0QzE1Ljk5NTIgMTguODE4NCAxNS4xODEyIDE4LjAwNDMgMTUuMTgxMiAxNy4wMDAyQzE1LjE4MTIgMTUuOTk2IDE1Ljk5NTIgMTUuMTgyIDE2Ljk5OTQgMTUuMTgyQzE4LjAwMzYgMTUuMTgyIDE4LjgxNzYgMTUuOTk2IDE4LjgxNzYgMTcuMDAwMloiIHN0cm9rZT0iIzdDN0M3QyIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPgo8cGF0aCBkPSJNMTAuNjA5MiAxNC4xNDI4TDguODI1NjggOC44MjY3NEwxNC4xNDE4IDEwLjYxMDIiIHN0cm9rZT0iIzdDN0M3QyIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPgo8cGF0aCBkPSJNMTQuMTQxOCAyMy4zOTAxTDguODI1NjggMjUuMTczNkwxMC42MDkyIDE5Ljg1NzUiIHN0cm9rZT0iIzdDN0M3QyIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPgo8cGF0aCBkPSJNMjMuMzg5MSAxOS44NTc1TDI1LjE3MjUgMjUuMTczNkwxOS44NTY0IDIzLjM5MDEiIHN0cm9rZT0iIzdDN0M3QyIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPgo8cGF0aCBkPSJNMTkuODU2NCAxMC42MUwyNS4xNzI1IDguODI2NDlMMjMuMzg5MSAxNC4xNDI2IiBzdHJva2U9IiM3QzdDN0MiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiLz4KPC9nPgo8L2c+CjxkZWZzPgo8Y2xpcFBhdGggaWQ9ImNsaXAwXzEzNF8xMTc5Ij4KPHJlY3Qgd2lkdGg9IjM0IiBoZWlnaHQ9IjM0IiBmaWxsPSJ3aGl0ZSIvPgo8L2NsaXBQYXRoPgo8L2RlZnM+Cjwvc3ZnPgo="/>
+	</defs>
+	<style>
+	</style>
+	<filter id="f0">
+		<feFlood flood-color="#ffffff" flood-opacity="1" />
+		<feBlend mode="normal" in2="SourceGraphic"/>
+		<feComposite in2="SourceAlpha" operator="in" />
+	</filter>
+	<g id="Clip-Path" clip-path="url(#cp1)" filter="url(#f0)">
+		<use id="compass" href="#img1" transform="matrix(1,0,0,1,-1,-1)"/>
+	</g>
+</svg>
